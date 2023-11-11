@@ -1,0 +1,22 @@
+Hi there!
+
+As part of the interview process, we would like you to complete an assignment as follows: 
+
+To create a few simple backend APIs along with the backend database schema. 
+You are free to use any language of your choice but you will get extra points for using Python with Flask/Django frameworks.
+
+We would like you to build a simple relational database schema to manage a movie database. A movie typically has a name, year of release, user ratings, multiple genres, multiple actors, technicians, etc associated with it. You need to create a relational schema with proper relationships between different models/tables using any ORM of your choice if possible.
+
+In terms of APIs, you will need to create these APIs,
+
+GET and POST APIs to fetch a particular Movie, Add or Update a movie.
+GET method to fetch all the movies - preferably paginated with custom filters like getting all movies of an actor or a director or a combination of actors/directors/technicians
+POST API to delete an actor from the database if he or she is not associated with any movies
+
+The deadline to complete the assignment is 11th November 2023. Once done, please host the code on GitHub and share the repo details with us here or on team@10xengg.com. Please reach out in case you have any questions. 
+
+All the best!
+
+Thanks,
+Amal
+Submission deadline: 11 November, 2023
