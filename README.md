@@ -2,7 +2,7 @@
 
 Steps to run the project :
 
-step1 : open your desired location inside your terminal
+step1 : <code>open your desired location inside your terminal</code>
 <br>
 step2 : run "git clone https://github.com/Shashank5665/movie-api-service.git"
 <br>
